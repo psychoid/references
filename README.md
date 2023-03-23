@@ -1,4 +1,4 @@
-# references
+# PenTesting Methodologies
 
 - PTES http://www.pentest-standard.org/index.php/Main_Page
 - OWASP https://owasp.org/www-chapter-brasilia/
